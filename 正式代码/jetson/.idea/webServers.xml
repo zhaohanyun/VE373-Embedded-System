@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aa9a438e-b8f4-4f67-8de4-621962664007" name="dorm506">
+        <fileTransfer accessType="SFTP" host="192.168.1.110" port="22" sshConfigId="3db64436-5dd7-4cfe-ad6d-5e259b66d092" sshConfig="zhaohanyun@192.168.1.110:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f6013055-baf1-4286-9581-4d6c45321860" name="eth02">
+        <fileTransfer accessType="SFTP" host="192.168.0.2" port="22" sshConfigId="0c747d2d-3e76-477d-aad4-00113d836b3f" sshConfig="zhaohanyun@192.168.0.2:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
