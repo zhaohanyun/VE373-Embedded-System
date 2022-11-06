@@ -11,3 +11,5 @@ The visual system (/jetsion) works on Nividia Jetson, and runs facial recognitio
 Together they allow the vehicle to follow certain person. (Although its reaction speed it not fast LOL)
 
 Btw it has a beautiful appearance. It inherited the mechanical design used in the Engineering Training Competition, created by my teammate Chentao Zhu.
+
+Demo video at: https://youtu.be/e6cj6U3KOOU
